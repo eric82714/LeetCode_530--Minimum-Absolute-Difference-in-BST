@@ -4,7 +4,7 @@ Given a binary search tree with non-negative values, find the minimum absolute d
 
 # Example:
 
-![image]()
+![image](https://github.com/eric82714/LeetCode_530--Minimum-Absolute-Difference-in-BST/blob/master/image/example.PNG)
  
 # Note:
 
